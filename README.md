@@ -6,8 +6,8 @@ This project implements a basic grid world environment for reinforcement learnin
 
 ## Features
 
-- Customizable grid layout with goals and obstacles.
-- Q-learning algorithm for agent training.
+- Customizable grid layout with multiple goals and obstacles.
+- Q-learning algorithm for agent training. (step by step)
 - Visualization of the agent's behavior on the grid.
 
 ## Requirements
